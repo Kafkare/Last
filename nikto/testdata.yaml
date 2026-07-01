@@ -1,0 +1,10 @@
+base_url: https://test-stand.gb.ru/
+browser: chrome
+username: API Testing
+password: 19491bd3ab
+post_title: "Test Post Title3"
+post_description: "Test Post description 3"
+post_content: "Test Post content 3."
+your_name: "Ivan"
+your_email: "ivan@gmail.com"
+your_content: "Text to send contact"
